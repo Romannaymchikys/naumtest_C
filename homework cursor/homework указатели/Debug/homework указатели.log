@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\roman\documents\visual studio 2015\projects\homework указатели\homework указатели\source.cpp(179): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  homework указатели.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\homework указатели\Debug\homework указатели.exe
+  homework указатели.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\homework указатели\Debug\homework указатели.pdb (Partial PDB)

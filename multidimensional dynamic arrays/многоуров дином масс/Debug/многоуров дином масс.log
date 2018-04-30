@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\roman\documents\visual studio 2015\projects\многоуров дином масс\многоуров дином масс\source.cpp(37): warning C4715: '_exitornotexit': not all control paths return a value
+c:\users\roman\documents\visual studio 2015\projects\многоуров дином масс\многоуров дином масс\source.cpp(178): warning C4715: '_Choice_of_actions': not all control paths return a value
+  многоуров дином масс.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\многоуров дином масс\Debug\многоуров дином масс.exe
+  многоуров дином масс.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\многоуров дином масс\Debug\многоуров дином масс.pdb (Partial PDB)

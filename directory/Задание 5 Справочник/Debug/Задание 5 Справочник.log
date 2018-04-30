@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\roman\documents\visual studio 2015\projects\задание 5 справочник\задание 5 справочник\source.cpp(39): warning C4715: '_exitornotexit': not all control paths return a value
+c:\users\roman\documents\visual studio 2015\projects\задание 5 справочник\задание 5 справочник\source.cpp(238): warning C4715: '_Choice_of_actions': not all control paths return a value
+  Задание 5 Справочник.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Задание 5 Справочник\Debug\Задание 5 Справочник.exe
+  Задание 5 Справочник.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Задание 5 Справочник\Debug\Задание 5 Справочник.pdb (Partial PDB)
