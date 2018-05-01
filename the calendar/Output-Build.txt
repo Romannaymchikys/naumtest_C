@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Den nedeli, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>c:\users\roman\documents\visual studio 2015\projects\den nedeli\den nedeli\source.cpp(38): warning C4715: 'Lola_input': not all control paths return a value
+1>c:\users\roman\documents\visual studio 2015\projects\den nedeli\den nedeli\source.cpp(114): warning C4715: 'Proverka': not all control paths return a value
+1>  Den nedeli.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Den nedeli\Debug\Den nedeli.exe
+1>  Den nedeli.vcxproj -> C:\Users\Roman\Documents\Visual Studio 2015\Projects\Den nedeli\Debug\Den nedeli.pdb (Partial PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
